@@ -1,0 +1,56 @@
+.mainLivrosDoados {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+
+    h2 {
+        font-size: 32px;
+        height: 10vh;
+        display: flex;
+        align-items: center;
+    }
+}
+.listaLivros {
+    width: 95%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 2rem;
+
+    section {
+        border: solid 3px #005695;
+        border-radius: 20px;
+        width: 18%;
+        height: 40vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        margin-top: 2rem;
+
+        h3 {
+            text-align: center;
+        }
+        
+        img {
+            width: 4vw;
+        }
+
+        div {
+            text-align: center;
+        }
+    }
+}
+
+@media (max-width: 768px) {
+    .listaLivros {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        section {
+            width: 60%;
+        }
+    }
+}
