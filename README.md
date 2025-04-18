@@ -16,7 +16,7 @@ O projeto foi idealizado, desenvolvido e concluído por mim, contemplando tanto 
 
 ### Front-End
 - HTML5
-- SASS
+- SCSS
 - React
 
 ### Back-End
