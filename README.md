@@ -48,4 +48,4 @@ O projeto foi idealizado, desenvolvido e concluído por mim, abrangendo tanto o 
 
 ---
 
-© 2025 | Desenvolvido por **Suzane** 
+© 2025 | Desenvolvido por **Suzane**.
