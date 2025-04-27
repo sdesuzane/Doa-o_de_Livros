@@ -1,6 +1,6 @@
 # 📚 Sistema de Doação de Livros
 
-Projeto desenvolvido ao longo do curso de **Desenvolvimento FullStack** promovido pela [Vai na Web](https://vainaweb.com.br/), com duração de 7 meses. O **Sistema de Doação de Livros** tem como objetivo incentivar a leitura, promover a troca de conhecimento e facilitar o acesso a livros por meio de doações.
+Projeto desenvolvido ao longo do curso de **Desenvolvimento FullStack** promovido pela Escola [Vai na Web](https://vainaweb.com.br/), com duração de 7 meses. O **Sistema de Doação de Livros** tem como objetivo incentivar a leitura, promover a troca de conhecimento e facilitar o acesso a livros por meio de doações.
 
 ## 🚀 Sobre o Projeto
 
